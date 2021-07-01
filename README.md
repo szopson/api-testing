@@ -25,5 +25,5 @@ I have used Cucumber to provide BDD tests. I am using Scenario Outline for param
 #####Lombok
 I have used Lombok plugin to reduce boilerplate code for data objects. Using Lombok annotations I can generate getters, setters, data model etc. Some features can be found here: https://projectlombok.org/features/all
 #####Owner
-That plugin helps in working with properties. I was used it in backend module Here is more information: http://owner.aeonbits.org/docs/usage/
+That plugin helps in working with properties. I used it in backend module Here is more information: http://owner.aeonbits.org/docs/usage/
 
